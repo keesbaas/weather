@@ -9,9 +9,18 @@ response = requests.get(
 
 data = response.json()
 
+temperature = []
+wind_speed = []
+wind_direction = []
+dewpoint = []
+time = []
+
 for period in data["properties"]["periods"][:24]:
-    print(
-        period["startTime"],
-        period["temperature"],
-        period["windSpeed"]
-    )
+
+    time.append(period["startTime"])
+    temperature.append(period["temperature"])
+    wind_speed.append(period["windSpeed"])
+    wind_direction.append(period["windDirection"])
+    dewpoint.append(period["dewpoint"]["value"])
+
+print(temperature)
