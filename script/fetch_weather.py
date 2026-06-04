@@ -49,4 +49,4 @@ for x in range(60, 70):
 
 with open("data/weather.json", "w") as f:
 
-    json.dump(output, f)
+    json.dump(output, f, indent=2, sort_keys=True)
