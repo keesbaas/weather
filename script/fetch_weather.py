@@ -12,8 +12,8 @@ output = {
     "gridpoints": {}
 }
 
-for x in range(1, 10):
-    for y in range(1, 10):
+for x in range(60, 70):
+    for y in range(60, 70):
 
         url = f"https://api.weather.gov/gridpoints/BOU/{x},{y}/forecast/hourly"
 
