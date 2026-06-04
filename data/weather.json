@@ -1,28 +1,7 @@
 {
-  "generated_at": "2026-06-04T10:39:57.872778Z",
+  "generated_at": "2026-06-04T13:58:40.141973Z",
   "location": "BOU/61,66",
   "hours": [
-    {
-      "time": "2026-06-04T04:00:00-06:00",
-      "temperature": 59,
-      "windSpeed": "3 mph",
-      "windDirection": "W",
-      "dewpoint": 6.111111111111111
-    },
-    {
-      "time": "2026-06-04T05:00:00-06:00",
-      "temperature": 58,
-      "windSpeed": "3 mph",
-      "windDirection": "W",
-      "dewpoint": 5.555555555555555
-    },
-    {
-      "time": "2026-06-04T06:00:00-06:00",
-      "temperature": 57,
-      "windSpeed": "3 mph",
-      "windDirection": "W",
-      "dewpoint": 5.555555555555555
-    },
     {
       "time": "2026-06-04T07:00:00-06:00",
       "temperature": 61,
@@ -169,6 +148,27 @@
       "windSpeed": "5 mph",
       "windDirection": "W",
       "dewpoint": 3.3333333333333335
+    },
+    {
+      "time": "2026-06-05T04:00:00-06:00",
+      "temperature": 61,
+      "windSpeed": "5 mph",
+      "windDirection": "WSW",
+      "dewpoint": 3.3333333333333335
+    },
+    {
+      "time": "2026-06-05T05:00:00-06:00",
+      "temperature": 60,
+      "windSpeed": "5 mph",
+      "windDirection": "S",
+      "dewpoint": 3.3333333333333335
+    },
+    {
+      "time": "2026-06-05T06:00:00-06:00",
+      "temperature": 59,
+      "windSpeed": "2 mph",
+      "windDirection": "SSW",
+      "dewpoint": 3.888888888888889
     }
   ]
 }
