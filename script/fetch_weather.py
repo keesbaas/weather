@@ -2,32 +2,51 @@ import requests
 import json
 from datetime import datetime
 
-URL = "https://api.weather.gov/gridpoints/BOU/61,66/forecast/hourly"
-
 headers = {
-    "User-Agent": "colorado-weather-map (your-email@example.com)"
+    "User-Agent": "weather-map"
 }
 
-r = requests.get(URL, headers=headers)
-data = r.json()
-
-periods = data["properties"]["periods"][:24]
-
-out = {
+output = {
     "generated_at": datetime.utcnow().isoformat() + "Z",
-    "location": "BOU/61,66",
-    "hours": []
+    "office": "BOU",
+    "gridpoints": {}
 }
 
-for p in periods:
-    out["hours"].append({
-        "time": p["startTime"],
-        "temperature": p["temperature"],
-        "windSpeed": p["windSpeed"],
-        "windDirection": p["windDirection"],
-        "dewpoint": p.get("dewpoint", {}).get("value")
-    })
+for x in range(1, 10):
+    for y in range(1, 10):
 
-# overwrite file every run
+        url = f"https://api.weather.gov/gridpoints/BOU/{x},{y}/forecast/hourly"
+
+        try:
+
+            r = requests.get(url, headers=headers, timeout=20)
+
+            if r.status_code != 200:
+                continue
+
+            forecast = r.json()
+
+            periods = forecast["properties"]["periods"][:24]
+
+            cell_data = []
+
+            for p in periods:
+
+                cell_data.append({
+                    "time": p["startTime"],
+                    "temperature": p["temperature"],
+                    "windSpeed": p["windSpeed"],
+                    "windDirection": p["windDirection"]
+                })
+
+            output["gridpoints"][f"{x}_{y}"] = cell_data
+
+            print(f"Downloaded {x},{y}")
+
+        except Exception as e:
+
+            print(f"Failed {x},{y}: {e}")
+
 with open("data/weather.json", "w") as f:
-    json.dump(out, f, indent=2)
+
+    json.dump(output, f)
