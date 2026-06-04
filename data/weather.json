@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-06-04T01:43:29.295168Z",
+  "generated_at": "2026-06-04T06:45:09.167516Z",
   "location": "BOU/61,66",
   "hours": [
-    {
-      "time": "2026-06-03T19:00:00-06:00",
-      "temperature": 77,
-      "windSpeed": "6 mph",
-      "windDirection": "SSE",
-      "dewpoint": 7.777777777777778
-    },
-    {
-      "time": "2026-06-03T20:00:00-06:00",
-      "temperature": 74,
-      "windSpeed": "5 mph",
-      "windDirection": "S",
-      "dewpoint": 7.777777777777778
-    },
-    {
-      "time": "2026-06-03T21:00:00-06:00",
-      "temperature": 71,
-      "windSpeed": "5 mph",
-      "windDirection": "SSW",
-      "dewpoint": 7.777777777777778
-    },
-    {
-      "time": "2026-06-03T22:00:00-06:00",
-      "temperature": 69,
-      "windSpeed": "5 mph",
-      "windDirection": "SW",
-      "dewpoint": 7.777777777777778
-    },
-    {
-      "time": "2026-06-03T23:00:00-06:00",
-      "temperature": 67,
-      "windSpeed": "3 mph",
-      "windDirection": "SW",
-      "dewpoint": 7.777777777777778
-    },
     {
       "time": "2026-06-04T00:00:00-06:00",
       "temperature": 66,
@@ -169,6 +134,41 @@
       "windSpeed": "7 mph",
       "windDirection": "WNW",
       "dewpoint": 2.7777777777777777
+    },
+    {
+      "time": "2026-06-04T19:00:00-06:00",
+      "temperature": 85,
+      "windSpeed": "7 mph",
+      "windDirection": "SSW",
+      "dewpoint": 3.3333333333333335
+    },
+    {
+      "time": "2026-06-04T20:00:00-06:00",
+      "temperature": 81,
+      "windSpeed": "6 mph",
+      "windDirection": "SW",
+      "dewpoint": 3.888888888888889
+    },
+    {
+      "time": "2026-06-04T21:00:00-06:00",
+      "temperature": 78,
+      "windSpeed": "6 mph",
+      "windDirection": "SW",
+      "dewpoint": 3.888888888888889
+    },
+    {
+      "time": "2026-06-04T22:00:00-06:00",
+      "temperature": 75,
+      "windSpeed": "5 mph",
+      "windDirection": "SW",
+      "dewpoint": 4.444444444444445
+    },
+    {
+      "time": "2026-06-04T23:00:00-06:00",
+      "temperature": 72,
+      "windSpeed": "6 mph",
+      "windDirection": "WSW",
+      "dewpoint": 5
     }
   ]
 }
