@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Weather Heatmap</title>
+
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet/dist/leaflet.css"
+    />
+
+    <style>
+
+        html, body {
+            margin: 0;
+            height: 100%;
+        }
+
+        #map {
+            height: 100%;
+        }
+
+        #controls {
+
+            position: absolute;
+            top: 10px;
+            left: 50px;
+
+            z-index: 1000;
+
+            background: white;
+
+            padding: 10px;
+
+            border-radius: 5px;
+
+            box-shadow: 0 0 5px rgba(0,0,0,0.3);
+        }
+
+    </style>
+
+</head>
+<body>
+
+<div id="controls">
+
+    <div>
+        Forecast Hour:
+        <span id="hourLabel">0</span>
+    </div>
+
+    <input
+        type="range"
+        id="hourSlider"
+        min="0"
+        max="23"
+        value="0"
+    >
+
+</div>
+
+<div id="map"></div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script>
+
+const map = L.map('map').setView(
+    [40.0, -105.3],
+    8
+);
+
+L.tileLayer(
+    'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+    {
+        attribution:
+            '&copy; OpenStreetMap contributors'
+    }
+).addTo(map);
+
+let boundaryData;
+let weatherData;
+
+const gridLayers = {};
+
+const slider =
+    document.getElementById("hourSlider");
+
+const hourLabel =
+    document.getElementById("hourLabel");
+
+initialize();
+
+async function initialize() {
+
+    boundaryData =
+        await fetch("boundaries.json")
+        .then(r => r.json());
+
+    weatherData =
+        await fetch("weather.json")
+        .then(r => r.json());
+
+    createPolygons();
+
+    updateMap(0);
+
+    slider.addEventListener(
+        "input",
+        () => {
+
+            const hour =
+                parseInt(slider.value);
+
+            hourLabel.textContent =
+                weatherData.gridpoints[
+                    Object.keys(
+                        weatherData.gridpoints
+                    )[0]
+                ][hour].time;
+
+            updateMap(hour);
+        }
+    );
+}
+
+function createPolygons() {
+
+    for (
+        const gridId
+        in boundaryData.boundaries
+    ) {
+
+        const polygon =
+            boundaryData.boundaries[
+                gridId
+            ];
+
+        const coords =
+            polygon.coordinates[0]
+            .map(coord => [
+                coord[1],
+                coord[0]
+            ]);
+
+        const layer =
+            L.polygon(coords, {
+
+                fillOpacity: 0.8,
+
+                weight: 0
+
+            });
+
+        layer.addTo(map);
+
+        gridLayers[gridId] =
+            layer;
+    }
+}
+
+function updateMap(hourIndex) {
+
+    const temps = [];
+
+    for (
+        const gridId
+        in weatherData.gridpoints
+    ) {
+
+        const forecast =
+            weatherData.gridpoints[
+                gridId
+            ];
+
+        temps.push(
+            forecast[
+                hourIndex
+            ].temperature
+        );
+    }
+
+    const minTemp =
+        Math.min(...temps);
+
+    const maxTemp =
+        Math.max(...temps);
+
+    for (
+        const gridId
+        in weatherData.gridpoints
+    ) {
+
+        const data =
+            weatherData.gridpoints[
+                gridId
+            ][hourIndex];
+
+        const temp =
+            data.temperature;
+
+        const layer =
+            gridLayers[gridId];
+
+        layer.setStyle({
+
+            fillColor:
+                getColor(
+                    temp,
+                    minTemp,
+                    maxTemp
+                )
+
+        });
+
+        layer.bindPopup(`
+            <b>${gridId}</b><br>
+            Temperature: ${temp} °F<br>
+            Wind: ${data.windDirection}
+            ${data.windSpeed}<br>
+            Time: ${data.time}
+        `);
+    }
+}
+
+function getColor(
+    temp,
+    minTemp,
+    maxTemp
+) {
+
+    const ratio =
+        (temp - minTemp) /
+        (maxTemp - minTemp);
+
+    const hue =
+        240 - ratio * 240;
+
+    return `hsl(${hue},100%,50%)`;
+}
+
+setInterval(
+    refreshWeather,
+    3600000
+);
+
+async function refreshWeather() {
+
+    weatherData =
+        await fetch(
+            `weather.json?t=${Date.now()}`
+        )
+        .then(r => r.json());
+
+    updateMap(
+        parseInt(
+            slider.value
+        )
+    );
+}
+
+</script>
+
+</body>
+</html>
