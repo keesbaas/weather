@@ -94,11 +94,11 @@ initialize();
 async function initialize() {
 
     boundaryData =
-        await fetch("boundaries.json")
+        await fetch("data/boundaries.json")
         .then(r => r.json());
 
     weatherData =
-        await fetch("weather.json")
+        await fetch("data/weather.json")
         .then(r => r.json());
 
     createPolygons();
@@ -248,7 +248,7 @@ async function refreshWeather() {
 
     weatherData =
         await fetch(
-            `weather.json?t=${Date.now()}`
+            `data/weather.json?t=${Date.now()}`
         )
         .then(r => r.json());
 
