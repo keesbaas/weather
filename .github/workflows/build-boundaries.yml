@@ -19,7 +19,7 @@ jobs:
 
       - run: pip install requests
 
-      - run: python get_boundaries.py
+      - run: python script/fetch_grid.py
 
       - name: Commit results
         run: |
