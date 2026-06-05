@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-05T15:56:21.611176Z",
+  "generated_at": "2026-06-05T18:00:33.017593Z",
   "gridpoints": {
     "60_60": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 84,
         "time": "2026-06-05T12:00:00-06:00",
@@ -145,28 +127,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "S",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "60_61": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -291,28 +273,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSE",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "60_62": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -437,28 +419,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSE",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "60_63": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -583,27 +565,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSE",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "60_64": [
-      {
-        "temperature": 73,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "E",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 79,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -729,28 +711,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "S",
         "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "60_65": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -875,28 +857,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "60_66": [
       {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 76,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -1021,27 +1003,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "60_67": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -1167,27 +1149,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WNW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 86,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "60_68": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -1313,27 +1295,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WNW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "60_69": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -1459,28 +1441,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "NW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 86,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "6 mph"
       }
     ],
     "61_60": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "3 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -1605,28 +1587,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "S",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "61_61": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -1751,28 +1733,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "S",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "61_62": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -1897,28 +1879,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "S",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "61_63": [
       {
-        "temperature": 73,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 79,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 82,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -2043,28 +2025,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSE",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "61_64": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -2189,27 +2171,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "61_65": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -2335,27 +2317,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "61_66": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -2481,27 +2463,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 77,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "61_67": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -2627,27 +2609,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 79,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 86,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "61_68": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -2773,27 +2755,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WNW",
         "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "61_69": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -2919,27 +2901,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WNW",
         "windSpeed": "1 mph"
-      }
-    ],
-    "62_60": [
+      },
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
+        "temperature": 80,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
         "windSpeed": "3 mph"
       },
       {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
         "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
+      }
+    ],
+    "62_60": [
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -3065,27 +3047,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "62_61": [
-      {
-        "temperature": 73,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "3 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 86,
         "time": "2026-06-05T12:00:00-06:00",
@@ -3211,27 +3193,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "S",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "62_62": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "3 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -3357,27 +3339,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSE",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "3 mph"
       }
     ],
     "62_63": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -3503,27 +3485,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "3 mph"
       }
     ],
     "62_64": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -3649,27 +3631,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "3 mph"
       }
     ],
     "62_65": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -3795,27 +3777,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "3 mph"
       }
     ],
     "62_66": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -3941,27 +3923,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "3 mph"
       }
     ],
     "62_67": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -4087,27 +4069,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 85,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "62_68": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -4233,27 +4215,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 85,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "62_69": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -4379,27 +4361,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
-      }
-    ],
-    "63_60": [
+      },
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "E",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
         "windSpeed": "3 mph"
       },
       {
-        "temperature": 79,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
         "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
+      }
+    ],
+    "63_60": [
       {
         "temperature": 84,
         "time": "2026-06-05T12:00:00-06:00",
@@ -4525,27 +4507,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "63_61": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "3 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -4671,21 +4653,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "63_62": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T11:00:00-06:00",
@@ -4816,29 +4804,23 @@
         "temperature": 69,
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
         "windSpeed": "2 mph"
       }
     ],
     "63_63": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -4963,28 +4945,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "63_64": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -5109,28 +5091,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "63_65": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -5255,28 +5237,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "63_66": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -5401,27 +5383,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 86,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "3 mph"
       }
     ],
     "63_67": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -5547,27 +5529,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 86,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "63_68": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -5693,27 +5675,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 86,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "63_69": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -5839,27 +5821,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "5 mph"
       }
     ],
     "64_60": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -5984,29 +5966,29 @@
         "temperature": 69,
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
         "windSpeed": "3 mph"
       }
     ],
     "64_61": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "NE",
@@ -6131,27 +6113,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "64_62": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -6277,27 +6259,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "64_63": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -6423,27 +6405,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "64_64": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -6569,27 +6551,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "64_65": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -6715,27 +6697,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "64_66": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -6861,27 +6843,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "64_67": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -7007,27 +6989,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 86,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "64_68": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -7153,27 +7135,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 86,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "64_69": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -7299,27 +7281,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "ESE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "65_60": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -7445,27 +7427,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "65_61": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -7591,27 +7573,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "65_62": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -7736,29 +7718,29 @@
         "temperature": 71,
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
         "windSpeed": "3 mph"
       }
     ],
     "65_63": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "NE",
@@ -7883,28 +7865,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "65_64": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "NE",
@@ -8029,28 +8011,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "65_65": [
       {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -8175,28 +8157,28 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "65_66": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "ENE",
@@ -8321,27 +8303,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "1 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "65_67": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -8467,27 +8449,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "65_68": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -8613,27 +8595,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "65_69": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -8759,27 +8741,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 86,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "66_60": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -8904,29 +8886,29 @@
         "temperature": 70,
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
+        "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
         "windSpeed": "5 mph"
       }
     ],
     "66_61": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "NE",
@@ -9051,27 +9033,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "66_62": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -9197,27 +9179,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "66_63": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -9343,27 +9325,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "66_64": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -9488,29 +9470,29 @@
         "temperature": 70,
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
         "windSpeed": "3 mph"
       }
     ],
     "66_65": [
       {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "NE",
@@ -9635,27 +9617,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "66_66": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -9781,27 +9763,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "66_67": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -9927,27 +9909,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "3 mph"
       }
     ],
     "66_68": [
-      {
-        "temperature": 70,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -10073,27 +10055,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "66_69": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -10219,27 +10201,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "67_60": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -10364,29 +10346,29 @@
         "temperature": 70,
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
+        "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
         "windSpeed": "5 mph"
       }
     ],
     "67_61": [
       {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "NE",
@@ -10510,29 +10492,29 @@
         "temperature": 70,
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
+        "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
         "windSpeed": "5 mph"
       }
     ],
     "67_62": [
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "NE",
@@ -10657,27 +10639,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "67_63": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -10803,27 +10785,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "67_64": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -10949,27 +10931,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "67_65": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -11095,27 +11077,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "67_66": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -11241,27 +11223,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "67_67": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -11387,27 +11369,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "67_68": [
-      {
-        "temperature": 70,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -11533,27 +11515,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "67_69": [
-      {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -11679,27 +11661,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "68_60": [
-      {
-        "temperature": 70,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -11824,29 +11806,29 @@
         "temperature": 71,
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
+        "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "S",
         "windSpeed": "5 mph"
       }
     ],
     "68_61": [
       {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 78,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "NE",
@@ -11970,29 +11952,29 @@
         "temperature": 71,
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
+        "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
         "windSpeed": "5 mph"
       }
     ],
     "68_62": [
       {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "NE",
@@ -12117,27 +12099,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "68_63": [
-      {
-        "temperature": 70,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -12263,27 +12245,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "68_64": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -12409,27 +12391,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "5 mph"
-      }
-    ],
-    "68_65": [
-      {
-        "temperature": 70,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
       },
       {
         "temperature": 76,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
       },
       {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
       },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
+      }
+    ],
+    "68_65": [
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -12555,27 +12537,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "68_66": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -12701,27 +12683,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "68_67": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -12847,27 +12829,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "68_68": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -12993,27 +12975,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 89,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "68_69": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
-        "temperature": 81,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -13139,27 +13121,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SE",
+        "windSpeed": "5 mph"
       }
     ],
     "69_60": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -13285,27 +13267,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "5 mph"
-      }
-    ],
-    "69_61": [
+      },
       {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SSW",
         "windSpeed": "5 mph"
       },
       {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "5 mph"
       },
       {
-        "temperature": 78,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "S",
         "windSpeed": "6 mph"
-      },
+      }
+    ],
+    "69_61": [
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -13431,27 +13413,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "5 mph"
-      }
-    ],
-    "69_62": [
+      },
       {
-        "temperature": 72,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
         "windSpeed": "5 mph"
       },
       {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "5 mph"
       },
       {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "6 mph"
+      }
+    ],
+    "69_62": [
       {
         "temperature": 83,
         "time": "2026-06-05T12:00:00-06:00",
@@ -13577,27 +13559,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "5 mph"
-      }
-    ],
-    "69_63": [
+      },
       {
-        "temperature": 70,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
         "windSpeed": "5 mph"
       },
       {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "3 mph"
       },
       {
-        "temperature": 79,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "5 mph"
+      }
+    ],
+    "69_63": [
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -13723,27 +13705,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "69_64": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -13869,27 +13851,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "5 mph"
       }
     ],
     "69_65": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
@@ -14014,29 +13996,29 @@
         "temperature": 70,
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
+        "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 87,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
         "windSpeed": "5 mph"
       }
     ],
     "69_66": [
       {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "5 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
         "temperature": 81,
         "time": "2026-06-05T12:00:00-06:00",
         "windDirection": "NE",
@@ -14161,27 +14143,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 84,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "69_67": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -14307,27 +14289,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "5 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "69_68": [
-      {
-        "temperature": 70,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -14453,27 +14435,27 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "SW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 76,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ],
     "69_69": [
-      {
-        "temperature": 71,
-        "time": "2026-06-05T09:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "6 mph"
-      },
-      {
-        "temperature": 77,
-        "time": "2026-06-05T10:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
-        "temperature": 80,
-        "time": "2026-06-05T11:00:00-06:00",
-        "windDirection": "ENE",
-        "windSpeed": "7 mph"
-      },
       {
         "temperature": 82,
         "time": "2026-06-05T12:00:00-06:00",
@@ -14599,6 +14581,24 @@
         "time": "2026-06-06T08:00:00-06:00",
         "windDirection": "WSW",
         "windSpeed": "3 mph"
+      },
+      {
+        "temperature": 75,
+        "time": "2026-06-06T09:00:00-06:00",
+        "windDirection": "SW",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 83,
+        "time": "2026-06-06T10:00:00-06:00",
+        "windDirection": "S",
+        "windSpeed": "2 mph"
+      },
+      {
+        "temperature": 88,
+        "time": "2026-06-06T11:00:00-06:00",
+        "windDirection": "SSE",
+        "windSpeed": "5 mph"
       }
     ]
   },
