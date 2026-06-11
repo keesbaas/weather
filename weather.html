@@ -42,8 +42,18 @@
 </head>
 <body>
 
-<div id="controls">
 
+
+
+    
+<div id="controls">
+<div>
+    Variable:
+    <select id="variableSelect">
+        <option value="temperature">Temperature</option>
+        <option value="windSpeed">Wind Speed</option>
+    </select>
+</div>
     <div>
         Forecast Hour:
         <span id="hourLabel">0</span>
@@ -65,6 +75,31 @@
 
 <script>
 
+const variableConfig = {
+
+    temperature: {
+
+        label: "Temperature",
+
+        units: "°F",
+
+        min: -20,
+
+        max: 110
+    },
+
+    windSpeed: {
+
+        label: "Wind Speed",
+
+        units: " mph",
+
+        min: 0,
+
+        max: 60
+    }
+};
+    
 const map = L.map('map').setView(
     [40.0, -105.3],
     8
@@ -78,6 +113,19 @@ L.tileLayer(
     }
 ).addTo(map);
 
+const variableSelect =
+    document.getElementById("variableSelect");
+
+    
+variableSelect.addEventListener(
+    "change",
+    () => {
+        updateMap(
+            parseInt(slider.value)
+        );
+    }
+);
+    
 let boundaryData;
 let weatherData;
 
@@ -161,30 +209,13 @@ function createPolygons() {
 
 function updateMap(hourIndex) {
 
-    const temps = [];
+    const selectedVariable =
+        variableSelect.value;
 
-    for (
-        const gridId
-        in weatherData.gridpoints
-    ) {
-
-        const forecast =
-            weatherData.gridpoints[
-                gridId
-            ];
-
-        temps.push(
-            forecast[
-                hourIndex
-            ].temperature
-        );
-    }
-
-    const minTemp = -20;
-       
-
-    const maxTemp = 110;
-        
+    const config =
+        variableConfig[
+            selectedVariable
+        ];
 
     for (
         const gridId
@@ -196,8 +227,8 @@ function updateMap(hourIndex) {
                 gridId
             ][hourIndex];
 
-        const temp =
-            data.temperature;
+        const value =
+            data[selectedVariable];
 
         const layer =
             gridLayers[gridId];
@@ -206,22 +237,23 @@ function updateMap(hourIndex) {
 
             fillColor:
                 getColor(
-                    temp,
-                    minTemp,
-                    maxTemp
+                    value,
+                    config.min,
+                    config.max
                 )
 
         });
 
         layer.bindPopup(`
             <b>${gridId}</b><br>
-            Temperature: ${temp} °F<br>
-            Wind: ${data.windDirection}
-            ${data.windSpeed}<br>
+            Temperature: ${data.temperature} °F<br>
+            Wind: ${data.windSpeed} mph<br>
             Time: ${data.time}
         `);
     }
 }
+       
+    
 
 function getColor(
     temp,
