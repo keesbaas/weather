@@ -241,16 +241,28 @@ if (selectedVariable === "windSpeed") {
         const layer =
             gridLayers[gridId];
 
-        layer.setStyle({
+        let fillColor;
 
-            fillColor:
-                getColor(
-                    value,
-                    config.min,
-                    config.max
-                )
+if (selectedVariable === "windSpeed") {
 
-        });
+    fillColor =
+        getWindColor(value);
+
+} else {
+
+    fillColor =
+        getColor(
+            value,
+            config.min,
+            config.max
+        );
+}
+
+layer.setStyle({
+
+    fillColor: fillColor
+
+});
 
         layer.bindPopup(`
             <b>${gridId}</b><br>
@@ -260,7 +272,16 @@ if (selectedVariable === "windSpeed") {
         `);
     }
 }
-       
+
+function getWindColor(speed) {
+
+    if (speed < 5) return "#ffffff";
+    if (speed < 10) return "#c6dbef";
+    if (speed < 20) return "#6baed6";
+    if (speed < 30) return "#2171b5";
+
+    return "#08306b";
+}
     
 
 function getColor(
