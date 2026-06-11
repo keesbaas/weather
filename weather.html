@@ -275,12 +275,16 @@ layer.setStyle({
 
 function getWindColor(speed) {
 
-    if (speed < 5) return "#ffffff";
-    if (speed < 10) return "#c6dbef";
-    if (speed < 20) return "#6baed6";
-    if (speed < 30) return "#2171b5";
 
-    return "#08306b";
+
+    const ratio =
+        (speed) /
+        (40);
+
+    const hue =
+        120 - ratio * 120;
+
+    return `hsl(${hue},100%,50%)`;
 }
     
 
