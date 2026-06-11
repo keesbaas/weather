@@ -277,12 +277,10 @@ function getWindColor(speed) {
 
 
 
-    const ratio =
-        (speed) /
-        (40);
+   
 
     const hue =
-        120 - ratio * 120;
+        190 + speed*3;
 
     return `hsl(${hue},100%,50%)`;
 }
