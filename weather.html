@@ -209,6 +209,8 @@ function createPolygons() {
 
 function updateMap(hourIndex) {
 
+    
+    
     const selectedVariable =
         variableSelect.value;
 
@@ -229,6 +231,14 @@ function updateMap(hourIndex) {
 
         const value =
             data[selectedVariable];
+
+        let value = data[selectedVariable];
+
+if (selectedVariable === "windSpeed") {
+
+    value =
+        parseFloat(value);
+}
 
         const layer =
             gridLayers[gridId];
