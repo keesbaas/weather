@@ -31,9 +31,14 @@ for x in range(40, 70):
             cell_data = []
 
             for p in periods:
+                
+                dt = datetime.fromisoformat(p["startTime"])
 
+                display_time = dt.strftime("%I:%M %p").lstrip("0") + dt.strftime(" %b %d")
+                
                 cell_data.append({
                     "time": p["startTime"],
+                    "displayTime": display_time,
                     "temperature": p["temperature"],
                     "windSpeed": p["windSpeed"],
                     "windDirection": p["windDirection"]
