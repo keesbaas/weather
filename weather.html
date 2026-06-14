@@ -165,7 +165,7 @@ async function initialize() {
                     Object.keys(
                         weatherData.gridpoints
                     )[0]
-                ][hour].time;
+                ][hour].dateTime;
 
             updateMap(hour);
         }
@@ -268,7 +268,7 @@ layer.setStyle({
             <b>${gridId}</b><br>
             Temperature: ${data.temperature} °F<br>
             Wind: ${data.windSpeed}<br>
-            Time: ${data.time}
+            Time: ${data.dateTime}
         `);
     }
 }
