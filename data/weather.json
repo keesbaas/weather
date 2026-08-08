@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:50:53.632025Z",
+  "generated_at": "2026-08-08T08:42:30.594400Z",
   "gridpoints": {
     "40_100": [
       {
@@ -145183,13 +145183,6 @@
     ],
     "57_104": [
       {
-        "displayTime": "1:00 AM Aug 08",
-        "temperature": 69,
-        "time": "2026-08-08T01:00:00-06:00",
-        "windDirection": "WSW",
-        "windSpeed": "7 mph"
-      },
-      {
         "displayTime": "2:00 AM Aug 08",
         "temperature": 68,
         "time": "2026-08-08T02:00:00-06:00",
@@ -145347,6 +145340,13 @@
         "displayTime": "12:00 AM Aug 09",
         "temperature": 78,
         "time": "2026-08-09T00:00:00-06:00",
+        "windDirection": "W",
+        "windSpeed": "14 mph"
+      },
+      {
+        "displayTime": "1:00 AM Aug 09",
+        "temperature": 77,
+        "time": "2026-08-09T01:00:00-06:00",
         "windDirection": "W",
         "windSpeed": "14 mph"
       }
@@ -188873,13 +188873,6 @@
     ],
     "62_61": [
       {
-        "displayTime": "1:00 AM Aug 08",
-        "temperature": 76,
-        "time": "2026-08-08T01:00:00-06:00",
-        "windDirection": "SSW",
-        "windSpeed": "8 mph"
-      },
-      {
         "displayTime": "2:00 AM Aug 08",
         "temperature": 74,
         "time": "2026-08-08T02:00:00-06:00",
@@ -189037,6 +189030,13 @@
         "displayTime": "12:00 AM Aug 09",
         "temperature": 78,
         "time": "2026-08-09T00:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "6 mph"
+      },
+      {
+        "displayTime": "1:00 AM Aug 09",
+        "temperature": 77,
+        "time": "2026-08-09T01:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "6 mph"
       }
@@ -197543,13 +197543,6 @@
     ],
     "63_62": [
       {
-        "displayTime": "1:00 AM Aug 08",
-        "temperature": 76,
-        "time": "2026-08-08T01:00:00-06:00",
-        "windDirection": "S",
-        "windSpeed": "8 mph"
-      },
-      {
         "displayTime": "2:00 AM Aug 08",
         "temperature": 75,
         "time": "2026-08-08T02:00:00-06:00",
@@ -197707,6 +197700,13 @@
         "displayTime": "12:00 AM Aug 09",
         "temperature": 79,
         "time": "2026-08-09T00:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "6 mph"
+      },
+      {
+        "displayTime": "1:00 AM Aug 09",
+        "temperature": 77,
+        "time": "2026-08-09T01:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "6 mph"
       }
