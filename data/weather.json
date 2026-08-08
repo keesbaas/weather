@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:50:50.902241Z",
+  "generated_at": "2026-08-08T13:46:45.897034Z",
   "gridpoints": {
     "40_100": [
       {
@@ -197543,13 +197543,6 @@
     ],
     "63_62": [
       {
-        "displayTime": "6:00 AM Aug 08",
-        "temperature": 68,
-        "time": "2026-08-08T06:00:00-06:00",
-        "windDirection": "SSW",
-        "windSpeed": "5 mph"
-      },
-      {
         "displayTime": "7:00 AM Aug 08",
         "temperature": 70,
         "time": "2026-08-08T07:00:00-06:00",
@@ -197709,6 +197702,13 @@
         "time": "2026-08-09T05:00:00-06:00",
         "windDirection": "S",
         "windSpeed": "6 mph"
+      },
+      {
+        "displayTime": "6:00 AM Aug 09",
+        "temperature": 69,
+        "time": "2026-08-09T06:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "5 mph"
       }
     ],
     "63_63": [
