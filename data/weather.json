@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T06:57:54.984695Z",
+  "generated_at": "2026-08-17T07:56:53.127833Z",
   "gridpoints": {
     "40_100": [
       {
@@ -197543,13 +197543,6 @@
     ],
     "63_62": [
       {
-        "displayTime": "12:00 AM Aug 17",
-        "temperature": 67,
-        "time": "2026-08-17T00:00:00-06:00",
-        "windDirection": "SW",
-        "windSpeed": "5 mph"
-      },
-      {
         "displayTime": "1:00 AM Aug 17",
         "temperature": 66,
         "time": "2026-08-17T01:00:00-06:00",
@@ -197707,6 +197700,13 @@
         "displayTime": "11:00 PM Aug 17",
         "temperature": 74,
         "time": "2026-08-17T23:00:00-06:00",
+        "windDirection": "SSW",
+        "windSpeed": "6 mph"
+      },
+      {
+        "displayTime": "12:00 AM Aug 18",
+        "temperature": 72,
+        "time": "2026-08-18T00:00:00-06:00",
         "windDirection": "SSW",
         "windSpeed": "6 mph"
       }
@@ -231713,13 +231713,6 @@
     ],
     "67_63": [
       {
-        "displayTime": "12:00 AM Aug 17",
-        "temperature": 67,
-        "time": "2026-08-17T00:00:00-06:00",
-        "windDirection": "S",
-        "windSpeed": "7 mph"
-      },
-      {
         "displayTime": "1:00 AM Aug 17",
         "temperature": 67,
         "time": "2026-08-17T01:00:00-06:00",
@@ -231730,7 +231723,7 @@
         "displayTime": "2:00 AM Aug 17",
         "temperature": 66,
         "time": "2026-08-17T02:00:00-06:00",
-        "windDirection": "S",
+        "windDirection": "SSW",
         "windSpeed": "6 mph"
       },
       {
@@ -231738,14 +231731,14 @@
         "temperature": 64,
         "time": "2026-08-17T03:00:00-06:00",
         "windDirection": "S",
-        "windSpeed": "6 mph"
+        "windSpeed": "5 mph"
       },
       {
         "displayTime": "4:00 AM Aug 17",
         "temperature": 63,
         "time": "2026-08-17T04:00:00-06:00",
-        "windDirection": "S",
-        "windSpeed": "6 mph"
+        "windDirection": "SSW",
+        "windSpeed": "5 mph"
       },
       {
         "displayTime": "5:00 AM Aug 17",
@@ -231758,7 +231751,7 @@
         "displayTime": "6:00 AM Aug 17",
         "temperature": 61,
         "time": "2026-08-17T06:00:00-06:00",
-        "windDirection": "SSW",
+        "windDirection": "S",
         "windSpeed": "5 mph"
       },
       {
@@ -231772,28 +231765,28 @@
         "displayTime": "8:00 AM Aug 17",
         "temperature": 65,
         "time": "2026-08-17T08:00:00-06:00",
-        "windDirection": "SW",
+        "windDirection": "SSW",
         "windSpeed": "5 mph"
       },
       {
         "displayTime": "9:00 AM Aug 17",
-        "temperature": 68,
+        "temperature": 69,
         "time": "2026-08-17T09:00:00-06:00",
-        "windDirection": "SW",
+        "windDirection": "SSW",
         "windSpeed": "5 mph"
       },
       {
         "displayTime": "10:00 AM Aug 17",
         "temperature": 75,
         "time": "2026-08-17T10:00:00-06:00",
-        "windDirection": "SW",
-        "windSpeed": "2 mph"
+        "windDirection": "SSW",
+        "windSpeed": "3 mph"
       },
       {
         "displayTime": "11:00 AM Aug 17",
         "temperature": 79,
         "time": "2026-08-17T11:00:00-06:00",
-        "windDirection": "ESE",
+        "windDirection": "S",
         "windSpeed": "2 mph"
       },
       {
@@ -231801,18 +231794,18 @@
         "temperature": 85,
         "time": "2026-08-17T12:00:00-06:00",
         "windDirection": "E",
-        "windSpeed": "3 mph"
+        "windSpeed": "2 mph"
       },
       {
         "displayTime": "1:00 PM Aug 17",
         "temperature": 88,
         "time": "2026-08-17T13:00:00-06:00",
-        "windDirection": "E",
+        "windDirection": "ENE",
         "windSpeed": "5 mph"
       },
       {
         "displayTime": "2:00 PM Aug 17",
-        "temperature": 90,
+        "temperature": 89,
         "time": "2026-08-17T14:00:00-06:00",
         "windDirection": "E",
         "windSpeed": "6 mph"
@@ -231826,7 +231819,7 @@
       },
       {
         "displayTime": "4:00 PM Aug 17",
-        "temperature": 89,
+        "temperature": 88,
         "time": "2026-08-17T16:00:00-06:00",
         "windDirection": "E",
         "windSpeed": "6 mph"
@@ -231835,36 +231828,36 @@
         "displayTime": "5:00 PM Aug 17",
         "temperature": 89,
         "time": "2026-08-17T17:00:00-06:00",
-        "windDirection": "ENE",
+        "windDirection": "E",
         "windSpeed": "7 mph"
       },
       {
         "displayTime": "6:00 PM Aug 17",
-        "temperature": 91,
+        "temperature": 89,
         "time": "2026-08-17T18:00:00-06:00",
         "windDirection": "E",
         "windSpeed": "7 mph"
       },
       {
         "displayTime": "7:00 PM Aug 17",
-        "temperature": 88,
+        "temperature": 86,
         "time": "2026-08-17T19:00:00-06:00",
         "windDirection": "E",
-        "windSpeed": "6 mph"
+        "windSpeed": "7 mph"
       },
       {
         "displayTime": "8:00 PM Aug 17",
-        "temperature": 84,
+        "temperature": 82,
         "time": "2026-08-17T20:00:00-06:00",
-        "windDirection": "SSE",
-        "windSpeed": "7 mph"
+        "windDirection": "SE",
+        "windSpeed": "8 mph"
       },
       {
         "displayTime": "9:00 PM Aug 17",
         "temperature": 79,
         "time": "2026-08-17T21:00:00-06:00",
         "windDirection": "SSE",
-        "windSpeed": "8 mph"
+        "windSpeed": "9 mph"
       },
       {
         "displayTime": "10:00 PM Aug 17",
@@ -231878,6 +231871,13 @@
         "temperature": 75,
         "time": "2026-08-17T23:00:00-06:00",
         "windDirection": "S",
+        "windSpeed": "8 mph"
+      },
+      {
+        "displayTime": "12:00 AM Aug 18",
+        "temperature": 73,
+        "time": "2026-08-18T00:00:00-06:00",
+        "windDirection": "SSW",
         "windSpeed": "8 mph"
       }
     ],
