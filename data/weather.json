@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:23:58.178863Z",
+  "generated_at": "2026-08-22T21:23:02.332194Z",
   "gridpoints": {
     "40_100": [
       {
@@ -189043,13 +189043,6 @@
     ],
     "62_62": [
       {
-        "displayTime": "2:00 PM Aug 22",
-        "temperature": 90,
-        "time": "2026-08-22T14:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
         "displayTime": "3:00 PM Aug 22",
         "temperature": 92,
         "time": "2026-08-22T15:00:00-06:00",
@@ -189208,6 +189201,13 @@
         "temperature": 91,
         "time": "2026-08-23T13:00:00-06:00",
         "windDirection": "NNE",
+        "windSpeed": "6 mph"
+      },
+      {
+        "displayTime": "2:00 PM Aug 23",
+        "temperature": 91,
+        "time": "2026-08-23T14:00:00-06:00",
+        "windDirection": "NE",
         "windSpeed": "6 mph"
       }
     ],
@@ -197543,13 +197543,6 @@
     ],
     "63_62": [
       {
-        "displayTime": "2:00 PM Aug 22",
-        "temperature": 90,
-        "time": "2026-08-22T14:00:00-06:00",
-        "windDirection": "NE",
-        "windSpeed": "7 mph"
-      },
-      {
         "displayTime": "3:00 PM Aug 22",
         "temperature": 91,
         "time": "2026-08-22T15:00:00-06:00",
@@ -197708,6 +197701,13 @@
         "temperature": 91,
         "time": "2026-08-23T13:00:00-06:00",
         "windDirection": "NNE",
+        "windSpeed": "6 mph"
+      },
+      {
+        "displayTime": "2:00 PM Aug 23",
+        "temperature": 91,
+        "time": "2026-08-23T14:00:00-06:00",
+        "windDirection": "NE",
         "windSpeed": "6 mph"
       }
     ],
